@@ -47,7 +47,3 @@ portfolio-hub/
 - **GitHub Pages:** publicado a partir da branch `main`, pasta raiz. A página fica em `/pagina-web/`.
 - **Repositório público:** com link de compartilhamento.
 - **LinkedIn:** projetos adicionados à seção de projetos do perfil, com o link do repositório e da página.
-
-## Entrega
-
-PDF individual com os links do repositório, da página e do vídeo de apresentação de 5 minutos no YouTube, mais os prints da página, do histórico de commits e do LinkedIn. Prazo: 17/10/2026, 23h55.
